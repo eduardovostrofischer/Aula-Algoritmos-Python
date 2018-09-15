@@ -1,6 +1,8 @@
 # Aula-Algoritmos
 Aula de algoritmos com implementação em python
-1-Busca Linear
-2-Busca Linear com Sentinela
+
+01-Busca Linear
+
+02-Busca Linear com Sentinela
 
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
