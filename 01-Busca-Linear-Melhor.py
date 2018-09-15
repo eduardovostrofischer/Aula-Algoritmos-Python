@@ -1,5 +1,5 @@
 """
-Busca Linear melhor - Procurando livros em biblioteca desorganizada
+Busca Linear Melhor - Procurando livros em biblioteca desorganizada
    Entrada: 
             livros:     arranjo
             qtd_livros: numero de elementos do arranjo
