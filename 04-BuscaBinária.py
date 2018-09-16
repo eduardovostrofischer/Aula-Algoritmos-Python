@@ -14,7 +14,7 @@
             Se numeros[q] == procurado
                 return q
             Senão
-                Se numeros[q] > x
+                Se numeros[q] > procurado
                     r = q-1
                 Senão
                     p = q+1
@@ -38,7 +38,6 @@ def busca_binaria(numeros,n,procurado):
 
 numeros = [3,7,10,15,20]    
 n = 5
-i=0
 procurado = 3
 resposta = busca_binaria(numeros,n,procurado)
 print (resposta)
