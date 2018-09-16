@@ -15,7 +15,7 @@
             se numeros[meio]== procurado
                 return meio
             senao
-                se numeros[meio]>x
+                se numeros[meio] > procurado
                     return busca_binária_recursiva(numeros,esquerda,meio-1,procurado)
                 senao
                     return busca_binária_recursiva(numeros,meio+1,direita,procurado)
@@ -37,7 +37,6 @@ def busca_binaria_recursiva(numeros,esquerda,direita,procurado):
 
 numeros = [3,7,10,15,20]    
 n = 5
-i=0
 procurado = 20
 resposta = busca_binaria_recursiva(numeros,0,n-1,procurado)
 print (resposta)
