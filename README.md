@@ -9,4 +9,6 @@ Aula de algoritmos com implementação em python
 
 04- Busca Binária
 
+05- Ordenação por Seleção - Selection Sort
+
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
