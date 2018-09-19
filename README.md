@@ -13,4 +13,6 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 05- Ordenação por Seleção - Selection Sort
 
+06- Ordenação por Inserção - Insertion Sort
+
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
