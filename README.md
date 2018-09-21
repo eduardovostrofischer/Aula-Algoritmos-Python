@@ -19,4 +19,6 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 08- Ordenação Rápida           - QuickSort
 
+Em construção grafos, strings, compressão
+
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
