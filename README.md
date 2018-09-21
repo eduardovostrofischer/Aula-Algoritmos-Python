@@ -15,4 +15,6 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 06- Ordenação por Inserção - Insertion Sort
 
+07- Ordenação por Intercalação - Merge Sort
+
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
