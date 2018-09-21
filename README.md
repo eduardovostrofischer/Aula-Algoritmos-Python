@@ -11,10 +11,12 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 04- Busca Binária
 
-05- Ordenação por Seleção - Selection Sort
+05- Ordenação por Seleção      - SelectionSort
 
-06- Ordenação por Inserção - Insertion Sort
+06- Ordenação por Inserção     - InsertionSort
 
-07- Ordenação por Intercalação - Merge Sort
+07- Ordenação por Intercalação - MergeSort
+
+08- Ordenação Rápida           - QuickSort
 
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
