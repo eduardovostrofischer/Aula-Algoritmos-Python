@@ -19,6 +19,8 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 08- Ordenação Rápida           - QuickSort
 
+09- Ordenação por Contagem     - CountingSort
+
 Em construção grafos, strings, compressão
 
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
