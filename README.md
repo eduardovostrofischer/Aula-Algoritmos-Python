@@ -21,6 +21,8 @@ https://www.youtube.com/channel/UCFkIcJgqsVZnld3t8G4__DA
 
 09- Ordenação por Contagem     - CountingSort
 
+10- Ordenação topológica de grafos - TopologicalSort
+
 Em construção grafos, strings, compressão
 
 Livro Base: Desmistificando Algoritmos -Autor: Thomas Cormen
